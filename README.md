@@ -7,7 +7,4 @@
 - SQL
 - Banco de dados
 - Logica de programação
-
-<https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white>
-
-<https://img.shields.io/badge/Academia-41454A?style=for-the-badge&logo=academia&logoColor=white>
+img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white>
